@@ -7,6 +7,4 @@ groceries = {
   grains: ["rice", "pasta"]
 }
 
-def get_the_keys(groceries)
-puts groceries.keys
-end
+groceries.keys
